@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "text": "Tarea de ejemplo 1",
+      "description": "Descripción de la tarea 1",
+      "priority": "alta",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Tarea de ejemplo 2",
+      "description": "Descripción de la tarea 2",
+      "priority": "media",
+      "completed": true
+    }
+  ]
+  
